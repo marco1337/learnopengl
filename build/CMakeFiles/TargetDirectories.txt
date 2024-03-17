@@ -1,0 +1,3 @@
+/home/marco/p/game/build/CMakeFiles/my_opengl_project.dir
+/home/marco/p/game/build/CMakeFiles/edit_cache.dir
+/home/marco/p/game/build/CMakeFiles/rebuild_cache.dir
